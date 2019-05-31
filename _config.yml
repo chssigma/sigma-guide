@@ -2,11 +2,11 @@ title: Sigma Guide
 description: Sigma's comprohensive guide.
 author: Jack Timmins
 logo: /sigma-guide/static/img/logo.svg
-github: https://github.com/Tim-Jackins
+github: https://github.com/chssigma
 about: To help navigate the tools of the Sigma Lab
 
-baseurl: "https://tim-jackins.github.io/sigma-guide"
-url: "https://tim-jackins.github.io/sigma-guide"
+baseurl: "https://chssigma.github.io/sigma-guide"
+url: "https://chssigma.github.io/sigma-guide"
 
 allowsearch: true
 

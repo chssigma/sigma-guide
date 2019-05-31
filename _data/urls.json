@@ -1,0 +1,33 @@
+[
+  {
+    "text": "Home",
+    "url": "/",
+    "icon": "fa fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "About",
+    "url": "/about/",
+    "icon": "fa fa-comments"
+  },
+  {
+    "text": "Shop",
+    "url": "/shop",
+    "icon": "fa fa-wrench"
+  },
+  {
+    "text": "Printers",
+    "url": "/printers",
+    "icon": "fa fa-print"
+  },
+  {
+    "text": "Soldering",
+    "url": "/soldering",
+    "icon": "fa fa-microchip"
+  },
+  {
+    "text": "Coding",
+    "url": "/coding",
+    "icon": "fa fa-code"
+  }
+]
